@@ -1,0 +1,23 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+a {
+    text-decoration: none;
+    
+}
+ul {
+    list-style: none;
+
+}
+address {
+    font-style: normal;
+}
+span {
+    color: #4D5AE5;
+}
+p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}

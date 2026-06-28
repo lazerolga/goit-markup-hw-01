@@ -1,0 +1,22 @@
+#team h2 {
+        font-size: 36px;
+        line-height: 1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        
+    }
+
+#team h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+}
+ #team {
+    background-color: #f4f4fd;
+ }
+ #team p {
+    text-align: center;
+ }
